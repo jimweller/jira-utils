@@ -1,0 +1,17 @@
+epic:
+  - name: "[build] create transtional ou in aws foundation org"
+    value: Description
+  - name: "[build] create final destination ous in aws foundation org"
+    value: Description
+  - name: "[build] add temporary billing information to ExampleCo aws accounts"
+    value: Description
+  - name: "[build] add contact information to ExampleCo aws accounts"
+    value: Description
+  - name: "[build] move ExampleCo aws accounts to transitional ou in aws foundation org"
+    value: Description
+  - name: "[onboarding] validate LOWER accounts with ExampleCo stakeholder for sign-off"
+    value: Description
+  - name: "[onboarding] validate SUPPORT accounts with ExampleCo stakeholder for sign-off"
+    value: Description
+  - name: "[onboarding] validate PRODUCTION accounts with ExampleCo stakeholder for sign-off"
+    value: Description
